@@ -1,0 +1,16 @@
+.btn-success {
+	margin-left: 15px;
+}
+
+.btn-danger {
+	margin-left: 15px;
+}
+
+input[type="checkbox"]{
+	margin-right: 15px;
+}
+
+.draw-line {
+	text-decoration: line-through;
+	color: red;
+}	
